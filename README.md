@@ -9,7 +9,7 @@ $ mefetch
         %%%%%%%%%%%%%%%%%%%%%%%%%%       OS: MacOS
        %%%%%&@@@%%%%%%%%%@@@%%%%%%       Tools: Xcode, Figma, Postman, Swagger, Charles, CocoaPods, Git
        %%%.*%%%%%%%%%%%%%%%%%*#%%%       Technologies: API, Parsing, Multithreading, ARC, Debugging
-      %%%%%%%%%%%%%%%%%%%%%%%%%%%%%      Libraries: Alamofire, Realm, RxSwift, SwiftUI, UIKit, Combiner
+      %%%%%%%%%%%%%%%%%%%%%%%%%%%%%      Libs\Frameworks: Alamofire, Realm, RxSwift, SwiftUI, UIKit, Combiner
     .%%%%%%%%%%@@@@@@@@@@@%%%%%%%%%%     
     @@@@@@@@@@@@@@.....@@@@@@@@@@@@@@    Contacts
     @@@@@@@@@@,&@@@@,@@@@*,@@@@@@@@@@    ----------
