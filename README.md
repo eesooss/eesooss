@@ -7,7 +7,7 @@ $ mefetch
       (%%(((%%%#   %%%    %%%%((%%%      Position: Cherkasy, Ukraine
        %%%((((%%%%%%%%%%%%%(((((%%%      Languages: [Swift, Objective-C, Go]
         %%%%%%%%%%%%%%%%%%%%%%%%%%       OS: MacOS
-       %%%%%&@@@%%%%%%%%%@@@%%%%%%       Tools: Xcode, Figma, Postman, Charles, CocoaPods, Git
+       %%%%%&@@@%%%%%%%%%@@@%%%%%%       Tools: Xcode, Figma, Postman, Swagger, Charles, CocoaPods, Git
        %%%.*%%%%%%%%%%%%%%%%%*#%%%       Technologies: API, Parsing, Multithreading, ARC, Debugging
       %%%%%%%%%%%%%%%%%%%%%%%%%%%%%      Libraries: Alamofire, Realm, RxSwift, SwiftUI, UIKit, Combiner
     .%%%%%%%%%%@@@@@@@@@@@%%%%%%%%%%     
