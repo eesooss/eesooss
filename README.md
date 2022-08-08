@@ -1,16 +1,19 @@
-### Hi there 👋
-
-<!--
-**eesooss/eesooss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mefetch
+```haskell
+$ mefetch
+                                         eesooss@ukraine
+       %%                        %%      ----------
+      %%%%%%%                %%%%%%      Uptime: 26 years
+      (%%(((%%%#   %%%    %%%%((%%%      Position: Cherkasy, Ukraine
+       %%%((((%%%%%%%%%%%%%(((((%%%      Languages: [Swift, Objective-C, Go]
+        %%%%%%%%%%%%%%%%%%%%%%%%%%       OS: MacOS
+       %%%%%&@@@%%%%%%%%%@@@%%%%%%       Tools: Xcode, Figma, Postman, Charles, CocoaPods, Git
+       %%%.*%%%%%%%%%%%%%%%%%*#%%%       Technologies: API, Parsing, Multithreading, ARC, Debugging
+      %%%%%%%%%%%%%%%%%%%%%%%%%%%%%      Libraries: Alamofire, Realm, RxSwift, SwiftUI, UIKit, Combiner
+    .%%%%%%%%%%@@@@@@@@@@@%%%%%%%%%%     
+    @@@@@@@@@@@@@@.....@@@@@@@@@@@@@@    Contacts
+    @@@@@@@@@@,&@@@@,@@@@*,@@@@@@@@@@    ----------
+     @@@@@@@@@@@@@##/##@@@@@@@@@@@@@     email: hexemite@gmail.com
+       @@@@@@@@@@@@@@@@@@@@@@@@@@@       linkedin: linkedin.com/in/koryukalov/
+          @@@@@@@@@@@@@@@@@@@@@          telegram: @dkoriukalov
+                @@@@@@@@@               
